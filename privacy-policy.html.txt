@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy - Target Destroyer</title>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p><strong>Effective Date:</strong> July 22, 2025</p>
+    <p>This privacy policy explains how the mobile game <strong>Target Destroyer</strong>, developed by <strong>Muhammet Bayrakcı</strong>, collects, uses, and protects user data. The app is intended for all age groups, including children under the age of 13.</p>
+    
+    <h2>1. Data Collection</h2>
+    <p>The app does not directly collect any personal information from users. However, it uses third-party services (such as Unity Ads) that may collect the following data:</p>
+    <ul>
+        <li>Device identifiers (e.g., Device ID)</li>
+        <li>IP address</li>
+        <li>Device type and operating system</li>
+        <li>Ad interaction data</li>
+    </ul>
+    <p>This information is used to deliver personalized ads and improve the user experience.</p>
+
+    <h2>2. Third-Party Services</h2>
+    <p>The app uses <strong>Unity Ads</strong> to serve in-app advertisements. Unity Ads complies with privacy laws, including COPPA and Google Play policies for child-directed apps.</p>
+    <p>Unity Privacy Policy: <a href="https://unity.com/legal/privacy-policy" target="_blank">https://unity.com/legal/privacy-policy</a></p>
+
+    <h2>3. Advertisements</h2>
+    <p>The app displays ads that are appropriate for children and general audiences. Ad content is controlled and filtered by Unity Ads to avoid sensitive or inappropriate content.</p>
+
+    <h2>4. Data Security</h2>
+    <p>User data is processed securely by third-party providers. As the developer, I do not collect or store any personal information myself.</p>
+
+    <h2>5. Children's Privacy</h2>
+    <p>The app does not knowingly collect any personal data from children. All ads shown are age-appropriate. Parents are encouraged to supervise their children's app usage and manage device settings accordingly.</p>
+
+    <h2>6. Changes to This Policy</h2>
+    <p>This privacy policy may be updated from time to time. All changes will be posted on this page.</p>
+
+    <h2>7. Contact</h2>
+    <p>If you have any questions about this privacy policy, please contact me at:</p>
+    <p>Email: <a href="mailto:muhammetbayrakci91@gmail.com">muhammetbayrakci91@gmail.com</a></p>
+</body>
+</html>
